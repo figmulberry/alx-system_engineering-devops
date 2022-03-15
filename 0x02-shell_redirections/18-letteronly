@@ -1,0 +1,2 @@
+#!/bin/bash
+grep "^unix" /etc/ssh/sshd_config
